@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**As a** [student]  
- **I need** [to understand]  
- **So that** [I can use it later]  
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
    
  ### Details and Assumptions
- * [I'm just learning]
+ * [document what you know]
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [the next exercises]
- When [I can finish them]
- Then [I can say I learned]
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
